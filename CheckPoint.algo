@@ -1,4 +1,4 @@
-ALGORITHM ChekPoint
+ALGORITHM CheakPoint
 VAR
     ph:STRING;
     NbsL:INTEGER=0;
